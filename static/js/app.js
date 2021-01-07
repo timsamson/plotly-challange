@@ -74,20 +74,20 @@ function updatePlots(index) {
         title: { text: "Belly Button Washes Per Week" },
         gauge: {
           axis: { range: [0, 9], tickwidth: 0.5, tickcolor: "black" },
-          bar: { color: "#669999" },
+          bar: { color: "#08219e" },
           bgcolor: "white",
           borderwidth: 2,
           bordercolor: "transparent",
           steps: [
-            { range: [0, 1], color: "#fff" },
-            { range: [1, 2], color: "#e6fff5" },
-            { range: [2, 3], color: "ccffeb" },
-            { range: [3, 4], color: "b3ffe0" },
-            { range: [4, 5], color: "#99ffd6" },
-            { range: [5, 6], color: "#80ffcc" },
-            { range: [6, 7], color: "#66ffc2" },
-            { range: [7, 8], color: "#4dffb8" },
-            { range: [8, 9], color: "#33ffad" } 
+            { range: [0, 1], color: "#32a867" },
+            { range: [1, 2], color: "#32a850" },
+            { range: [2, 3], color: "#3aa832" },
+            { range: [3, 4], color: "#6ba832" },
+            { range: [4, 5], color: "#98a832" },
+            { range: [5, 6], color: "#ebd021" },
+            { range: [6, 7], color: "#eb9e21" },
+            { range: [7, 8], color: "#eb5e21" },
+            { range: [8, 9], color: "#eb2121" } 
           ],
         }
       }];
