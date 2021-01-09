@@ -4,12 +4,16 @@
 Apparently lots of Biodiversity! This interactive dashboard explores the Belly Button Biodiversity Sample DataSet. The dashboard can be found HERE. 
 <br>
 <h3>Example of Bar Chart</h3>
-!["Horz Bar Chart"](data/Images/Hoz_Bar_Example.png)
+
+!["Horz Bar Chart"](https://github.com/timsamson/plotly-challange/blob/main/data/Images/Horz_Bar_Example.png)
+
 <h3>Example of Bubble Chart</h3>
-![Bubble Graph](/data/Images/Bubble_Example.png)
+
+![Bubble Graph](https://github.com/timsamson/plotly-challange/blob/main/data/Images/Bubble_Example.png)
+
 <h3>Example of Guage Graph</h3>
 
-
+![Guage Graph](https://github.com/timsamson/plotly-challange/blob/main/data/Images/Guage_Example.png)
 <br>
 <h3>File Structure</h3>
 <p>There are two folders within the repository:
