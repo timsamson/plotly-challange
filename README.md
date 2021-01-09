@@ -17,8 +17,9 @@ Apparently lots of Biodiversity! This interactive dashboard explores the Belly B
 <br>
 <h3>File Structure</h3>
 <p>There are two folders within the repository:
-<ul><li>UFO-level-1 | which contains the basic search files.</li>
-<li>UFO-level-2 | which contains the multi search files.</li></ul>
+<ul><li>Data- Which contains the Sample Data JSON file and Image folder with graph example images.</li>
+<li>Static/JS- which contains the app.js file</li>
+<li>Additionally in the main repo is the Index.HTML file.</li></ul>
 </p>
 <br>
 <h3>Using the Dashboard</h3>
