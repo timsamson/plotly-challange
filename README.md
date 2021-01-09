@@ -17,13 +17,11 @@ Apparently lots of Biodiversity! This interactive dashboard explores the Belly B
 <li>UFO-level-2 | which contains the multi search files.</li></ul>
 </p>
 <br>
-<h3>Loading the HTML pages</h3>
-<ol><li><p>Navigate to the apporopriate folder UFO-lelel-1 or 2</p></li>
-<li><p>Locate the "index.html" file and launch it in your browser.
+<h3>Using the Dashboard</h3>
+<ol><li><p>Navigate to the dashboard in your web browser HERE</p></li>
+<li><p>Sample Data will load, select any ID from the dropdown, and upon change, the graphs will update to display the cooristponding data from the dataset. 
 </p></li>
-<li><p>Search away, please note the available fields from the intial table load. (dataset is small and therefore has limitied values in each of the available search fields.</p></li>
-
-<li><p>UFO-level-2 contains a reset button, which will clear the filter fields and reset the table to teh inital data (all available sightings)</li></ol>
+<li><p>Explore the dataset, when completed simply close the browser.</p></li></ol>
 <br>
 
 <h3>Dependencies</h3>
