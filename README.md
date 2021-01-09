@@ -1,7 +1,7 @@
 # plotly-challange
 <h2>Belly Button Biodiversity</h2>
 <h3>What's in a Belly Button?</h3>
-Apparently lots of Biodiversity! This interactive dashboard explores the Belly Button Biodiversity Sample DataSet. The dashboard can be found HERE. 
+Apparently lots of Biodiversity! This interactive dashboard explores the Belly Button Biodiversity Sample DataSet. The dashboard can be found <a href="https://timsamson.github.io/plotly-challange/">HERE</a>. 
 <br>
 <h3>Example of Bar Chart</h3>
 
@@ -22,7 +22,7 @@ Apparently lots of Biodiversity! This interactive dashboard explores the Belly B
 </p>
 <br>
 <h3>Using the Dashboard</h3>
-<ol><li><p>Navigate to the dashboard in your web browser HERE</p></li>
+<ol><li><p>Navigate to the dashboard in your web browser <a href="https://timsamson.github.io/plotly-challange/">HERE</a></p></li>
 <li><p>Sample Data will load, select any ID from the dropdown, and upon change, the graphs will update to display the cooristponding data from the dataset. 
 </p></li>
 <li><p>Explore the dataset, when completed simply close the browser.</p></li></ol>
