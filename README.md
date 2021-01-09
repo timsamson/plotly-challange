@@ -1,12 +1,15 @@
 # plotly-challange
-
+<h2>Belly Button Biodiversity</h2>
 <br>
 <h3>What's in a Belly Button?</h3>
-content
+Apparently lots of Biodiversity! This interactive dashboard explores the Belly Button Biodiversity Sample DataSet. The dashboard can be found HERE. 
 <br>
-
+<h3>Example of Bar Chart</h3>
 <!-- ![nasa](UFO-level-1/static/images/nasa.jpg) -->
-
+<h3>Example of Bubble Chart</h3>
+<!-- ![nasa](UFO-level-1/static/images/nasa.jpg) -->
+<h3>Example of Guage Graph</h3>
+<!-- ![nasa](UFO-level-1/static/images/nasa.jpg) -->
 <br>
 <h3>File Structure</h3>
 <p>There are two folders within the repository:
@@ -26,8 +29,7 @@ content
 <h3>Dependencies</h3>
  <ul>
 <li>HTML</li>
-<li>Bootstrap</li>
-<li>CSS</li>
+<li>Plotly</li>
 <li>D3</li>
 <li>JavaScript</li>
 </ul>
